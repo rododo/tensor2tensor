@@ -53,6 +53,7 @@ modules = [
     "tensor2tensor.data_generators.translate_enmk",
     "tensor2tensor.data_generators.translate_envi",
     "tensor2tensor.data_generators.translate_enzh",
+    "tensor2tensor.data_generators.translate_zwzh",
     "tensor2tensor.data_generators.twentybn",
     "tensor2tensor.data_generators.wiki",
     "tensor2tensor.data_generators.wikisum.wikisum",
