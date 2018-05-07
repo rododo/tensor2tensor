@@ -48,8 +48,8 @@ EOS = text_encoder.EOS_ID
 _NC_TRAIN_DATASETS = [[
     "http://data.statmt.org/wmt17/translation-task/training-parallel-nc-v12"
     ".tgz", [
-        "training/news-commentary-v12.zh-en.zh",
-        "training/news-commentary-v12.zh-en.zh"
+        "training_private_data/news-commentary-v12.zh-zh.origin.zh",
+        "training_private_data/news-commentary-v12.zh-zh.translated.zh"
     ]
 ]]
 
